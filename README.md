@@ -1,4 +1,9 @@
-# SCRAPPED!
+# (2026 UPDATE) A GOOD NOTE
+- This was my oldest project. It dates as far back as 2021. This game has went through so many reworks it's nuts. This was the fourth of five total code reworks.
+- The final release version of the game is at https://github.com/AJChurchJr/SavingYup
+
+ 
+# (not) SCRAPPED!
 - Yeah it's a bit sad but after working on this game for so long I think it's time to let go.
 - Yup, as a concept, started around 5 years ago, as an inside joke in middle school.
 - The game started development in python around 3-4 years ago.
